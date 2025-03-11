@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv/
+pipenv/
+poetry.lock
+.python-version
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.sublime-*
+.atom/
+.project
+.pydevproject
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e dados temporários
+*.log
+*.tmp
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+.tox/
+nosetests.xml
+coverage.xml
+
+# Banco de dados
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# Configurações locais
+local_settings.py
+instance/
+config.ini
+secrets.json
+credentials.json
+
+# Arquivos de mídia/upload
+uploads/
+media/
+static/collected/
+
+# Documentação gerada
+docs/_build/
+docs/generated/

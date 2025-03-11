@@ -1,0 +1,49 @@
+{
+    "2024": [
+      {
+        "data": "10",
+        "janeiro": 320775.12,
+        "fevereiro": 681594.71,
+        "marco": 304378.73,
+        "abril": 306643.72,
+        "maio": 424197.56,
+        "junho": 362496.71,
+        "julho": 189405.59,
+        "agosto": 389734.82,
+        "setembro": 233002.88,
+        "outubro": 270236.04,
+        "novembro": 467688.90,
+        "dezembro": 316999.24
+      },
+      {
+        "data": "20",
+        "janeiro": 107470.21,
+        "fevereiro": 97410.20,
+        "marco": 47905.20,
+        "abril": 74368.67,
+        "maio": 70097.11,
+        "junho": 184640.43,
+        "julho": 102120.79,
+        "agosto": 80724.49,
+        "setembro": 75586.87,
+        "outubro": 102062.14,
+        "novembro": 78108.68,
+        "dezembro": 228575.22
+      },
+      {
+        "data": "30",
+        "janeiro": 301093.66,
+        "fevereiro": 210142.28,
+        "marco": 266625.99,
+        "abril": 265813.56,
+        "maio": 258178.99,
+        "junho": 260890.02,
+        "julho": 232132.83,
+        "agosto": 214473.12,
+        "setembro": 251097.61,
+        "outubro": 227695.49,
+        "novembro": 220720.72,
+        "dezembro": 311836.34
+      }
+    ]
+  }
