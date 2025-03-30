@@ -1,0 +1,44 @@
+[
+  {
+    "Grupo": "GESTÃO DO SUS",
+    "Jan/2025": 234708.60,
+    "Fev/2025": 112585.30,
+    "Mar/2025": 0.00,
+    "Total": 347293.90
+  },
+  {
+    "Grupo": "ATENÇÃO PRIMÁRIA",
+    "Jan/2025": 866185.52,
+    "Fev/2025": 716037.64,
+    "Mar/2025": 777656.45,
+    "Total": 2359879.61
+  },
+  {
+    "Grupo": "VIGILÂNCIA EM SAÚDE",
+    "Jan/2025": 64503.44,
+    "Fev/2025": 64227.96,
+    "Mar/2025": 64227.96,
+    "Total": 192959.36
+  },
+  {
+    "Grupo": "ATENÇÃO DE MÉDIA E ALTA COMPLEXIDADE AMBULATORIAL E HOSPITALAR",
+    "Jan/2025": 233413.32,
+    "Fev/2025": 233413.32,
+    "Mar/2025": 233413.32,
+    "Total": 700239.96
+  },
+  {
+    "Grupo": "ASSISTÊNCIA FARMACÊUTICA",
+    "Jan/2025": 69164.17,
+    "Fev/2025": 23509.94,
+    "Mar/2025": 23509.94,
+    "Total": 116184.05
+  },
+  {
+    "Grupo": "Total",
+    "Jan/2025": 1467975.05,
+    "Fev/2025": 1149774.16,
+    "Mar/2025": 1098807.67,
+    "Total": 3716556.88
+  }
+]

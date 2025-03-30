@@ -1,0 +1,101 @@
+Okay, I understand. You want to use the annual percentage change to project the overall monthly value, and then use the February decendial factors of multiplication to distribute that monthly value across the decêndios for February, March, and April.
+
+Important Note: As before, using February decendial factors for March and April is an extrapolation and an assumption. The document only provides factors for February.
+
+Here's the table and the calculation approach:
+
+Table: Projected Decendial FPM based on Annual Change and February Factors (Feb-Apr 2025)
+
+Month	Decêndio	Factor (Feb 2025)	Annual Change (vs Same Month 2024)	Calculation for Decendio	Projected Value (Illustrative Example)
+Feb 2025	10th	2.0094	+3.7%	(Base Feb 2024 Monthly Total * (1 + 3.7%)) * (Factor 2.0094 / Total Feb Factor)	See Calculation Below
+	20th	0.2854	+3.7%	(Base Feb 2024 Monthly Total * (1 + 3.7%)) * (Factor 0.2854 / Total Feb Factor)	See Calculation Below
+	28th	0.6054	+3.7%	(Base Feb 2024 Monthly Total * (1 + 3.7%)) * (Factor 0.6054 / Total Feb Factor)	See Calculation Below
+	Total Month	2.9002	+3.7%	Sum of Decendio Values OR Base Feb 2024 Monthly Total * (1 + 3.7%)	See Calculation Below
+Mar 2025	10th	2.0094	+6.5%	(Base Mar 2024 Monthly Total * (1 + 6.5%)) * (Factor 2.0094 / Total Feb Factor)	See Calculation Below
+	20th	0.2854	+6.5%	(Base Mar 2024 Monthly Total * (1 + 6.5%)) * (Factor 0.2854 / Total Feb Factor)	See Calculation Below
+	28th	0.6054	+6.5%	(Base Mar 2024 Monthly Total * (1 + 6.5%)) * (Factor 0.6054 / Total Feb Factor)	See Calculation Below
+	Total Month	2.9002	+6.5%	Sum of Decendio Values OR Base Mar 2024 Monthly Total * (1 + 6.5%)	See Calculation Below
+Apr 2025	10th	2.0094	+9.7%	(Base Apr 2024 Monthly Total * (1 + 9.7%)) * (Factor 2.0094 / Total Feb Factor)	See Calculation Below
+	20th	0.2854	+9.7%	(Base Apr 2024 Monthly Total * (1 + 9.7%)) * (Factor 0.2854 / Total Feb Factor)	See Calculation Below
+	28th	0.6054	+9.7%	(Base Apr 2024 Monthly Total * (1 + 9.7%)) * (Factor 0.6054 / Total Feb Factor)	See Calculation Below
+	Total Month	2.9002	+9.7%	Sum of Decendio Values OR Base Apr 2024 Monthly Total * (1 + 9.7%)	See Calculation Below
+
+Calculation Explanation and Illustrative Example (using a hypothetical base):
+
+Let's assume a hypothetical Base Monthly FPM value for February 2024 = 100. We'll use this to demonstrate the calculation.
+
+Calculate Total February 2025 Monthly Value:
+
+Annual Change for February 2025 = +3.7%
+
+Projected Feb 2025 Monthly Total = 100 * (1 + 0.037) = 103.7
+
+Calculate Decendial Values for February 2025:
+
+Total February Factor = 2.9002
+
+10th Feb Decendio: 103.7 * (2.0094 / 2.9002) = 71.7 (approx.)
+
+20th Feb Decendio: 103.7 * (0.2854 / 2.9002) = 10.2 (approx.)
+
+28th Feb Decendio: 103.7 * (0.6054 / 2.9002) = 21.8 (approx.)
+
+Total Month (Sum of Decendios): 71.7 + 10.2 + 21.8 = 103.7 (This matches the monthly total calculated in step 1, as expected)
+
+Repeating the process for March and April (using the same base logic and February Factors, and assuming Base Monthly FPM for Mar 2024 and Apr 2024 are also 100 for simplicity):
+
+March 2025 (Annual Change +6.5%):
+
+Projected Mar 2025 Monthly Total = 100 * (1 + 0.065) = 106.5
+
+10th Mar Decendio: 106.5 * (2.0094 / 2.9002) = 73.6 (approx.)
+
+20th Mar Decendio: 106.5 * (0.2854 / 2.9002) = 10.5 (approx.)
+
+28th Mar Decendio: 106.5 * (0.6054 / 2.9002) = 22.4 (approx.)
+
+Total Month (Sum of Decendios): 73.6 + 10.5 + 22.4 = 106.5
+
+April 2025 (Annual Change +9.7%):
+
+Projected Apr 2025 Monthly Total = 100 * (1 + 0.097) = 109.7
+
+10th Apr Decendio: 109.7 * (2.0094 / 2.9002) = 75.8 (approx.)
+
+20th Apr Decendio: 109.7 * (0.2854 / 2.9002) = 10.8 (approx.)
+
+28th Apr Decendio: 109.7 * (0.6054 / 2.9002) = 23.0 (approx.)
+
+Total Month (Sum of Decendios): 75.8 + 10.8 + 23.0 = 109.7
+
+Illustrative Projected Values (using Base Monthly FPM 2024 = 100 for each month):
+
+Month	Decêndio	Projected Value (Illustrative Example)
+Feb 2025	10th	71.7
+	20th	10.2
+	28th	21.8
+	Total Month	103.7
+Mar 2025	10th	73.6
+	20th	10.5
+	28th	22.4
+	Total Month	106.5
+Apr 2025	10th	75.8
+	20th	10.8
+	28th	23.0
+	Total Month	109.7
+
+Important Caveats:
+
+Hypothetical Base: The "Projected Values" are based on a purely hypothetical Base Monthly FPM value of 100 for each month in 2024. To get realistic projections, you must replace this hypothetical base with the actual total monthly FPM values for February, March, and April of 2024.
+
+Extrapolation of Factors: Using February factors for March and April is a significant assumption and simplification. Real-world decendial distributions are unlikely to remain constant across months.
+
+Illustrative Purpose: This table is designed to illustrate the method of calculation you requested. It is not a definitive or highly accurate forecast due to the assumptions involved.
+
+To use this table for practical forecasting, you need to:
+
+Obtain the actual total monthly FPM values for February, March, and April of 2024.
+
+Replace the hypothetical base value (100) in the calculations with these actual 2024 values.
+
+Understand the limitations of the extrapolation and use these projections as estimates, not precise predictions.
